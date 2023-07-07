@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: msone-pod
+  labels:
+    name: msone-pod
+    app: microservice-one-demo
+spec:
+  containers:
+  - name: microservice-one
+    image: venuopalshastri/microserviceone:latest
+    
