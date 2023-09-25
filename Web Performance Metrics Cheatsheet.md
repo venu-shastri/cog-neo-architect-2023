@@ -47,7 +47,7 @@
             2. Content should be as small as possible and compressed by either Brotli or GZIP.
             3. A number of hops between Server and Client should be minimal. Using of CDN might help for multi-regional websites.
 
-![A timeline chart showing TTFB, FP, and FCP](E:\website-performance-knowledge\isItHappening)
+![A timeline chart showing TTFB, FP, and FCP](isItHappening)
 
 
 
@@ -106,7 +106,7 @@
 
 ​       A good number to aim for is 3.4 seconds or less.
 
-![A timeline chart showing LCP, VC, and SI](E:\website-performance-knowledge\IsItUsefull)
+![A timeline chart showing LCP, VC, and SI](IsItUsefull)
 
 ### Is it usable? 
 
@@ -148,7 +148,7 @@ Total Blocking Time measures the total duration of Javascript tasks between the 
 
 TBT is expected to be 200 milliseconds or less.
 
-![A timeline chart showing FID, mFID, TBT, and TTI](E:\website-performance-knowledge\isItUsable)
+![A timeline chart showing FID, mFID, TBT, and TTI](isItUsable)
 
 ### Is it delightful?
 
@@ -186,4 +186,4 @@ The standard for a smooth frame rate is 60 frames per second.
 
 
 
-![A timeline chart of all the performance metrics](E:\website-performance-knowledge\Vitals)
+![A timeline chart of all the performance metrics](Vitals)
